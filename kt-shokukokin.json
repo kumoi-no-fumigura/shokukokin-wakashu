@@ -1,6 +1,7 @@
 {
  "work": "続古今和歌集",
  "work_id": "kt-shokukokin",
+ "repo": "kumoi-no-fumigura/shokukokin-wakashu",
  "yomi": "しょくこきんわかしゅう",
  "category": "勅撰集",
  "kind": "kashu",
@@ -23049,6 +23050,5 @@
    "text": "久堅のあまのかご由空はれていつる月目もわが君のため",
    "sachu": ""
   }
- ],
- "repo": "kumoi-no-fumigura/shokukokin-wakashu"
+ ]
 }
